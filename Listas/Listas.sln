@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listas", "Listas.csproj", "{C195D62B-86B3-4A8D-996D-F03483EB562A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayLists", "..\ArrayLists\ArrayLists.csproj", "{8AFE6E18-FD33-437F-BA53-C3B3326869D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "..\Interfaces\Interfaces.csproj", "{84FEC8F9-9537-4385-85CC-516F6D69BBAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C195D62B-86B3-4A8D-996D-F03483EB562A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C195D62B-86B3-4A8D-996D-F03483EB562A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C195D62B-86B3-4A8D-996D-F03483EB562A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C195D62B-86B3-4A8D-996D-F03483EB562A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AFE6E18-FD33-437F-BA53-C3B3326869D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AFE6E18-FD33-437F-BA53-C3B3326869D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AFE6E18-FD33-437F-BA53-C3B3326869D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AFE6E18-FD33-437F-BA53-C3B3326869D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84FEC8F9-9537-4385-85CC-516F6D69BBAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84FEC8F9-9537-4385-85CC-516F6D69BBAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84FEC8F9-9537-4385-85CC-516F6D69BBAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84FEC8F9-9537-4385-85CC-516F6D69BBAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18706151-C13E-433F-BDA5-960CA2894E2C}
+	EndGlobalSection
+EndGlobal
